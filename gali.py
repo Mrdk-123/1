@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import time  # Import the time module
 
-token = "8197993526:AAE9JUzjJtyTtUlQ5oTyVtnSeIHeOKvWpIo"
+token = "7355406566:AAGuYIuTUwomPHYUNBpsz6H3xFknzuE5wKw"
 bot = telebot.TeleBot(token)
 galis = ["MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
     "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
